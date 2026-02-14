@@ -69,7 +69,7 @@ A pantograph is the mechanical device mounted on railway vehicles that collects 
 ## 📁 Project Structure
 
 ```
-pantograph-signal-analysis/
+Internship/
 ├── src/
 │   ├── task1.m          # Basic acceleration plotting
 │   ├── task2.m          # Time-normalized plotting
@@ -302,14 +302,14 @@ end
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/pantograph-signal-analysis.git
-cd pantograph-signal-analysis
+git clone https://github.com/AmirHosseinOsooli/Internship.git
+cd Internship
 
 # 2. Open MATLAB
 matlab &
 
 # 3. Set working directory
-cd('/path/to/pantograph-signal-analysis/src')
+cd('/path/to/Internship/src')
 
 # 4. Add data folder to path
 addpath('../data')
@@ -510,7 +510,7 @@ c = 0.8;  % Alert if RMS exceeds 0.8g
 **Solution:**
 ```matlab
 % Make sure you're in the src directory
-cd('/path/to/pantograph-signal-analysis/src')
+cd('/path/to/Internship/src')
 
 % Or use full path
 a = csvread('../data/one.csv', 1, 0);
