@@ -675,6 +675,12 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
+## 👤 Author
+
+**AmirHossein Osooli**
+
+---
+
 ## 📞 Contact
 
 **Project Context:**
