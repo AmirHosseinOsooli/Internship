@@ -30,6 +30,30 @@ A pantograph is the mechanical device mounted on railway vehicles that collects 
 
 ---
 
+## 📸 Railway Pantograph System
+
+<div align="center">
+  <img src="images/pantograph.jpg" alt="Railway Pantograph" width="85%">
+  <p><em>Real railway pantograph collecting power from overhead wire - the mechanical system monitored in this project</em></p>
+</div>
+
+### What You're Seeing
+
+**Key Components:**
+- 🔌 **Diamond Contact Frame** (top) - Touches overhead catenary wire
+- ⚡ **Spring Suspension** - Maintains constant contact pressure
+- 🔧 **Articulated Arms** - Allow vertical movement
+- 📊 **Base Mount** - Where acceleration sensors are installed
+
+**Our Analysis:**
+This project analyzes vibration data from sensors mounted on pantograph systems like this one:
+- **Dataset one.csv**: 8,270 samples from Sensor 1 (Z-axis)
+- **Dataset two.csv**: 8,280 samples from Sensor 1 (Z-axis)
+- **Sampling Rate**: ~138 Hz
+- **Duration**: 60 seconds per measurement
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#features)
